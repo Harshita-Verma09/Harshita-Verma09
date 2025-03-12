@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently pursuing MCA and exploring React.js, along with full-stack web development. **React.js, Couse- MCA**
 
-- 💬 Ask me about **Ask me about React.js, Node.js, MongoDB, Express.js, and Full-Stack Development.**
+- 💬 **Ask me about React.js, Node.js, MongoDB, Express.js, and Full-Stack Development.**
 
 - 📫 How to reach me **soniharshita0908@gmail.com**
 
