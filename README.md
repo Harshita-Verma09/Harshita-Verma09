@@ -15,12 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshita verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita verma" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/harshita verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="harshita verma" height="30" width="40" /></a>
-<a href="https://fb.com/harshita soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshita soni" height="30" width="40" /></a>
-<a href="https://instagram.com/soni harshita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soni harshita" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshita_verma09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshita_verma09" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harshita verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshita verma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshita-verma-33a14222a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita verma" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29789314/harshita-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="harshita verma" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100052311068027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshita soni" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Harshita_Verma09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshita_verma09" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/soniharshita0908/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshita verma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
