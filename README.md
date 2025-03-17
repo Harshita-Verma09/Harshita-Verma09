@@ -1,4 +1,20 @@
 <h1 align="center">Hi 👋, I'm Harshita Verma</h1>
+<h1 align="center">Hi 👋, I'm Harshita Verma</h1>
+<div style="display: flex; justify-content: center;">
+  <span style="display: inline-block; animation: handWave 2s infinite ease-in-out;">👋</span>
+</div>
+
+<style>
+@keyframes handWave {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(20deg);
+  }
+}
+</style>
+
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 <img align="right" alt="coding" width="450" height="400" src="https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
