@@ -1,19 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshita Verma</h1>
-<h1 align="center">Hi 👋, I'm Harshita Verma</h1>
-<div style="display: flex; justify-content: center;">
-  <span style="display: inline-block; animation: handWave 2s infinite ease-in-out;">👋</span>
-</div>
 
-<style>
-@keyframes handWave {
-  0%, 100% {
-    transform: rotate(0deg);
-  }
-  50% {
-    transform: rotate(20deg);
-  }
-}
-</style>
 
 <h3 align="center">A passionate full Stack developer from India</h3>
 
