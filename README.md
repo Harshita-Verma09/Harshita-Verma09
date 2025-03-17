@@ -1,28 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshita Verma</h1>
 
-
-<h1 align="center">Hi 👋, I'm Harshita Verma</h1>
-<div style="display: flex; justify-content: center;">
-  <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="animation: handWave 2s infinite ease-in-out;">
-    <path d="M11 17l-5-5 1.41-1.41L11 14.17 17.59 7.59 19 9z" />
-    <path d="M20 12v6h-4v-6M3 12v6h4v-6m10-9h-2l-1 9h4l-1-9z" />
-  </svg>
-</div>
-
-<style>
-@keyframes handWave {
-  0%, 100% {
-    transform: translateX(0);
-  }
-  50% {
-    transform: translateX(10px);
-  }
-}
-</style>
-
-
-
-
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18.8 11.2C18.8 9.9 17.7 8.8 16.4 8.8c-.8 0-1.5.4-1.9 1L12 14.5l-2.5-4.7c-.4-.7-1.1-1-1.9-1-1.3 0-2.4 1.1-2.4 2.4 0 .7.3 1.4.8 1.9l5 9.5c.3.5 1.1 2.3 2.1 1 2.1-1.3 0-2.4-1.1-2.4-2.4 0-.7-.3-1.4-.8-1.9l-5-9.5c-.3-.6-.8-1-1.4-1-.7 0-1.3.3-1.7.8L2 14.8" />
+    <path d="M18.8 11.2C18.8 9.9 17.7 8.8 16.4 8.8c-.8 0-1.5.4-1.9 1" />
+</svg>
 
 
 <h3 align="center">A passionate full Stack developer from India</h3>
