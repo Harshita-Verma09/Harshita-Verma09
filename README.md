@@ -1,6 +1,30 @@
 <h1 align="center">Hi 👋, I'm Harshita Verma</h1>
 
 
+<h1 align="center">Hi 👋, I'm Harshita Verma</h1>
+<div style="display: flex; justify-content: center;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="animation: handWave 2s infinite ease-in-out;">
+    <path d="M11 17l-5-5 1.41-1.41L11 14.17 17.59 7.59 19 9z" />
+    <path d="M20 12v6h-4v-6M3 12v6h4v-6m10-9h-2l-1 9h4l-1-9z" />
+  </svg>
+</div>
+
+<style>
+@keyframes handWave {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(10px);
+  }
+}
+</style>
+
+
+
+
+
+
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 <img align="right" alt="coding" width="450" height="400" src="https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
