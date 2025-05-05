@@ -39,10 +39,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=harshita-verma09&show_icons=true&locale=en"
            style=" solid white; width: 300px; height: 200px;" />
     </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-           style="solid white; width: 300px; height: 200px; object-fit: cover;" />
-    </td>
+   
   </tr>
 </table>
 
