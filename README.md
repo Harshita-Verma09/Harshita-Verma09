@@ -5,6 +5,7 @@
 
 <h3 align="center">A passionate full Stack developer from India</h3>
 
+
 <img align="right" alt="coding" width="450" height="400" src="https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-verma09&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-verma09" /> </p>
