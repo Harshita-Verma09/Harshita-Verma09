@@ -42,5 +42,3 @@
 
 <p><img= " " align="center" src="https://github.com/Harshita-Verma09" alt="harshita-verma09" /></p>
 
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" />
-
