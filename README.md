@@ -43,5 +43,5 @@
 <p><img= " " align="center" src="https://github.com/Harshita-Verma09" alt="harshita-verma09" /></p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Charu-Verma" width="100" />
+  <img src="https://github.com/Harshita-Verma09?v=4" alt="Charu-Verma" width="100" />
 </p>
