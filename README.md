@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-verma09&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-verma09" /> </p>
 
-- 🌱 I’m currently pursuing MCA and exploring React.js, along with full-stack web development. **React.js, Couse- MCA**
+- 🌱 I have completed my MCA and studied React.js as part of the course. I'm now exploring full-stack web development. 
 
 - 💬 **Ask me about React.js, Node.js, MongoDB, Express.js, and Full-Stack Development.**
 
