@@ -8,7 +8,7 @@
 
 
 
-⚡ Fun fact Fun fact: I enjoy learning new technologies, but somehow I always revisit JavaScript.
+⚡ Fun fact Fun fact: I enjoy learning new technologies, but somehow I always revisit JavaScript..
 
 
 
