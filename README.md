@@ -3,8 +3,6 @@
 
 💬 Ask me about React.js, TypeScript, Node.js, MongoDB, Express.js, Next.js, Prisma, Zod, GenAI and Full-Stack Development.
 
-
-
 📫 How to reach me soniharshita0908@gmail.com
 
 ⚡ Fun fact Fun fact:- I enjoy learning new technologies, but somehow I always revisit JavaScript
