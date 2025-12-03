@@ -3,7 +3,7 @@
 
 💬 Ask me about React.js, TypeScript, Node.js, MongoDB, Express.js, Next.js, Prisma, Zod, GenAI, LangChain and Full-Stack Development.
 
-📫 How to reach me soniharshita0908@gmail.com.
+📫 How to reach me soniharshita0908@gmail.com
 
 
 
